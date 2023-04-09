@@ -1,8 +1,3 @@
 # pick from list of subjects
 
-have a list of how many subjects
-subject name : [
-        imgsrc
-    ]
-
-
+Loop through subjects and display by exam board

@@ -10,16 +10,7 @@ questions
     topic
       subtopic-num
 
-Question{
-  imgsrc,
-  questiontext,
-  answersrc,
-  answertext
-}
 
-subtopic{
-  questions = Question[]
-}
 
 
 TODO:
@@ -40,3 +31,8 @@ People to get Qs from:
   aqa
   google
   ask people
+
+
+
+on load question:
+  domain/board/subject do some query stuff "topic/subtopic"
