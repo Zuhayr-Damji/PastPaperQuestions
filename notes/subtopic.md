@@ -1,5 +1,9 @@
 "imgsrc": "",
 "subtopics": [
-    {"Topic 1 e.g(Cell Structure)": numberofquestions e.g(10), link },
-    {"Topic2 ": ... ,  }
+    {"Subtopic 1 e.g(Cell Structure)": [
+        {"question": "mark scheme"},
+        {"question": "mark scheme"},
+        ...
+    ]}
+    
 ]
