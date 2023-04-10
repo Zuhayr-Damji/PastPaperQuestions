@@ -1,11 +1,5 @@
 # Past Paper Questions
 
-
-
-emmet
-multiple cursor
-nodejs init
-
 TODO:
   1. Get Questions (may need to contact people)
   2. View Questions by topic
