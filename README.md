@@ -17,10 +17,12 @@ People to get Qs from:
   study mind
   save my exams
   aqa
-  google
+  google 
   ask people
 
 
 
-on load question:
-  domain/board/subject do some query stuff "q=topic,subtopic"
+on load question: 
+  parse query parameter 
+
+
