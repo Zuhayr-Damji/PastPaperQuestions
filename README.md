@@ -1,14 +1,12 @@
 # Past Paper Questions
 
-<<<<<<< HEAD
+
 A website that stores a bunch of past paper questions for a GCSE student on a range of subjects
 
-=======
->>>>>>> 9fefe36f8741fa0df14c629bde165a4f0a98cbd3
 TODO:
   learn how to init nodejs
   learn how to use github with vscode
-  
+  learn how to use multiple nodejs files
 
 
 who i have asked from:

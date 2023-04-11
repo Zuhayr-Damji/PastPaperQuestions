@@ -5,6 +5,3 @@ function homepage(req, res) {
 function login(req, res) {
     res.send('Logged in');
 }
-
-// nodejs module.export multiple functions?
-module.exports = { login: login, homepage: homepage}
