@@ -1,28 +1,22 @@
 # Past Paper Questions
 
-
-
-emmet
-multiple cursor
-nodejs init
+A website that stores a bunch of past paper questions for a GCSE student on a range of subjects
 
 TODO:
-  1. Get Questions (may need to contact people)
-  2. View Questions by topic
-  3. Stitch Random questions combined into a paper with mark schemes
+  learn how to init nodejs
+  learn how to use github with vscode
+  
 
 
-People to get Qs from:
-  physics and maths tutor
-  study mind
-  save my exams
+who i have asked from:
+  physics and maths tutor 
+  study mind 
+  save my exams 
+  revision world 
+
+yet to ask from:
   aqa
   google 
   ask people
 
-
-
-on load question: 
-  parse query parameter 
-
-
+who said yes:
