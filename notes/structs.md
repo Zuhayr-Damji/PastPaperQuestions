@@ -1,9 +1,10 @@
 question{
-    {"question":"answer"}
+    question
+    answer
+    source
 }
 
 
 subtopic{
-    numberofquestions,
-    link (maybe use query parameters)
+    numberofquestions
 }

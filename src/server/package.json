@@ -1,0 +1,19 @@
+{
+  "name": "ppq-server",
+  "version": "1.0.0",
+  "description": "A website that stores a bunch of past paper questions for a GCSE student on a range of subjects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuhayr-Damji/PastPaperQuestions.git"
+  },
+  "author": "Zuhayr Damji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zuhayr-Damji/PastPaperQuestions/issues"
+  },
+  "homepage": "https://github.com/Zuhayr-Damji/PastPaperQuestions#readme"
+}
